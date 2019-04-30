@@ -18,7 +18,7 @@ avatar: "https://en.gravatar.com/userimage/155967233/22c56e6e1bb3677fc5a661a5dd4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: christian.abeln@microsoft.com
   facebook:
   flickr:
   github: "Microsoft/Dynamics-365-for-Marketing---Power-BI-Reporting"
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: #"https://dynamics.microsoft.com/en-us/marketing/overview/"
+url: "https://cabeln.dynamicsmarketing.org/" #"https://dynamics.microsoft.com/en-us/marketing/overview/"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
