@@ -19,4 +19,5 @@ The [GitHub Project](https://github.com/Microsoft/Dynamics-365-for-Marketing---P
 
 ### Exchange with the community 
 
-[email@domain.com](mailto:email@domain.com)
+[Community hub](https://community.dynamics.com/365/marketing) for marketing product related topics with Dynamics 365
+[Community forum](https://community.dynamics.com/365/marketing/f/768) all about Dynamics 365 for Marketing 
