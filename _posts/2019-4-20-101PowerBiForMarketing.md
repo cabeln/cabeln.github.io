@@ -1,13 +1,10 @@
 ---
 layout: post
-title: >-
-  Use Power BI analytical reporting for your marketing processes with Dynamics
-  365 for Marketing
+title: 101 - Use Power BI analytical reporting on your marketing data
 published: true
 ---
 
-This site provides all the resources 
+This site provides all the resources that shpow how to build Marketing Analytics with Power BI and offer templates and frameworks.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
