@@ -9,7 +9,7 @@ name: Dynamics 365 for Marketing
 description: Power BI reporting for marketing analytics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "https://en.gravatar.com/userimage/155967233/22c56e6e1bb3677fc5a661a5dd4dccba.png?size=200"
+avatar: "https://en.gravatar.com/userimage/155967233/22c56e6e1bb3677fc5a661a5dd4dccba.png?size=134"
 
 #
 # Flags below are optional
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: "playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR" # channel/<your_long_string> or user/<user-name>
+  youtube: #"playlist?list=PLcakwueIHoT_cV1n1es1YJt_T2A5u-XpR" # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://dynamics.microsoft.com/en-us/marketing/overview/"
+url: #"https://dynamics.microsoft.com/en-us/marketing/overview/"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Microsoft/Dynamics-365-for-Marketing---Power-BI-Reporting"
+baseurl: #"/Microsoft/Dynamics-365-for-Marketing---Power-BI-Reporting"
 
 #
 # !! You don't need to change any of the configuration flags below !!
