@@ -9,7 +9,9 @@ On this site you find all resources on Power BI analytical reporting for Dynamci
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Get all information about the product [Dynamics 365 for Marketing](#"https://dynamics.microsoft.com/en-us/marketing/overview/")
+
+Find the [product documentation here](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/marketing/help-hub)
 
 ### Contact me
 
