@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+On this site you find all resources on Power BI analytical reporting for Dynamcis 365 for Marketing
 
 ### More Information
 
