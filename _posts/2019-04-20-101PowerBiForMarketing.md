@@ -8,7 +8,7 @@ This site provides all the resources that show how to build Marketing Analytics 
 
 - Lets start with an introduction on [the data that is available for marketing analytics reporting](../Intro-Data-for-your-marketing-analytics/)
 - Then let us introduce the [framework for marketing analytical reporting with Power BI](../Framework/) 
-- You will need to configure your Dynamics 365 for Marketing organization to expose interaction data 
-- And finally allow us to present a rich set of pre-built samples  which you can use as a  starting point for your own marketing analytics.   
+- You will need to [configure your Dynamics 365 for Marketing application](../ConfigureMarketing/) to expose interaction data 
+- And finally allow us to present a  set of [pre-built samples for download](../Marketing-Analytics-for-download/). Use them as a starting point for your own marketing analytics.   
 
 ![Hero Image]({{site.baseurl}}/images/Overview-Hero1.png)
