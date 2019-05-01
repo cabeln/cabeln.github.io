@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 youtubeId: pBrB1BohUrE
 ---
 ## Intro: The data sources for Marketing analytics
@@ -14,4 +14,4 @@ Dynamics 365 for Marketing offers to types of data: _Profiles_ and _Interactions
 
 Watch this quick walkthrough for an overview on the data sourced for marketing analytics.
 
-{% include YouTubePlayer.html id=page.youtubeId %}
+{% include youtube-player.html id=page.youtubeId %}
