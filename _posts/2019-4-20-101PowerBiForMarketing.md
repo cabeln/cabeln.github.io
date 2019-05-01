@@ -11,7 +11,7 @@ This site provides all the resources that show how to build Marketing Analytics 
 - You will need to configure your Dynamcis 365 for Marketing organization to expose interaction data 
 - And finally there is a rich set of prebuilt samples available which can be a good starting point for your custom marketing analytics.   
 
-![Hero Image]({{site.baseurl}}/_posts/Overview-Hero1.png)
+![Hero Image]({{site.baseurl}}/images/Overview-Hero1.png)
 
 
 
