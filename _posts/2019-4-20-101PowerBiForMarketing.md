@@ -5,6 +5,7 @@ published: true
 ---
 
 This site provides all the resources that show how to build Marketing Analytics with Power BI and offer templates and frameworks.
+![CJSchedule.png]({{site.baseurl}}/_posts/Overview-Hero1.png)
 
 
 
