@@ -1,6 +1,7 @@
 ---
-published: false
+layout: post
 title: A framework for building Marketing analytics reports with Power BI
+published: true
 ---
 ## A framework of Power BI code for building marketing analytic reporting
 
