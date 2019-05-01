@@ -1,5 +1,6 @@
 ---
 published: false
+youtubeId: pBrB1BohUrE
 ---
 ## Intro: The data sources for Marketing analytics
 
