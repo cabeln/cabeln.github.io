@@ -6,7 +6,7 @@ published: true
 
 This site provides all the resources that show how to build Marketing Analytics with Power BI and offer templates and frameworks
 
-- Lets start with an introduction on the data that are available for marketing analytics reporting
+- Lets start with an introduction on [the data that is available for marketing analytics reporting](2019-05-01-Intro-Data for your marketing analytics.md)
 - Then let us introduce the framework available for Power BI reporting 
 - You will need to configure your Dynamcis 365 for Marketing organization to expose interaction data 
 - And finally allow us to present a rich set of pre-built samples  which you can use as a  starting point for your own marketing analytics.   
