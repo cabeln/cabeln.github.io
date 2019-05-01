@@ -2,6 +2,7 @@
 published: true
 youtubeId: pBrB1BohUrE
 layout: post
+title: Intro - Data for your marketing analytics
 ---
 Lets walk through the types of data you can use for your marketing analytics
 
