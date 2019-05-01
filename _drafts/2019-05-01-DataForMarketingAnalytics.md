@@ -14,4 +14,4 @@ Dynamics 365 for Marketing offers to types of data: _Profiles_ and _Interactions
 
 Watch this quick walkthrough for an overview on the data sourced for marketing analytics.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include YouTubePlayer.html id=page.youtubeId %}
