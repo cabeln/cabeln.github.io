@@ -3,7 +3,7 @@ layout: post
 title: A framework for building Marketing analytics reports with Power BI
 published: true
 ---
-## A framework of Power BI code for building marketing analytic reporting
+This post introduces a framework of Power BI code for building marketing analytic reporting
 
 ![Framework Hero Image]({{site.baseurl}}/images/Framework-Hero1.png)
 
