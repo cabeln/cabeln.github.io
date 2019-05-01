@@ -4,7 +4,7 @@ title: 101 - Using Power BI for your analytical marketing reporting
 published: true
 ---
 
-## This site provides all the resources that show how to build Marketing Analytics with Power BI and offer templates and frameworks
+This site provides all the resources that show how to build Marketing Analytics with Power BI and offer templates and frameworks
 
 - Lets start with an introduction on the data that are available for marketing analytics reporting
 - Then let us introduce the framework available for Power BI reporting 
