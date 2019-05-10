@@ -1,9 +1,9 @@
-Find a number of sample for your marketing analytics available for download
+Find a number of samples for your marketing analytics available for download
 
 |Report|Download|Description|
-| -------------------- | ------------- | ------------------------------- |
+| ----------------------- | ------------------ | ------------------------------- |
 |Generic template (framework & tools) |![Download Template][DownloadTemplate] ![Download Report][DownloadReport]|   |
-|Basic Leaderboard report (journeys & email marketing)|![Download Template][DownloadTemplate] ![Download Report][DownloadReport]|   |
+|Basic leader board report (journeys & email marketing)|[![Download Template][DownloadTemplate]](https://github.com/microsoft/Dynamics-365-for-Marketing---Power-BI-Reporting/blob/master/PowerBI-Templates/MarketingAnalyzers%20-%20Journey%26Email%20Leaderboard.pbit) [![Download Report][DownloadReport]](https://github.com/microsoft/Dynamics-365-for-Marketing---Power-BI-Reporting/blob/master/pbx%20files/MarketingAnalyzers%20-%20Journey%26Email%20Leaderboard.pbix)|   |
 |   |![Download Template][DownloadTemplate] ![Download Report][DownloadReport]|   |
 |   |![Download Template][DownloadTemplate] ![Download Report][DownloadReport]|   |
 |   |![Download Template][DownloadTemplate] ![Download Report][DownloadReport]|   |
