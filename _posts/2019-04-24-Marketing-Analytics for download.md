@@ -1,6 +1,6 @@
 Find a number of sample for your marketing analytics available for download
 
-|##Report|##Download|##Description|
+|Report|Download|Description|
 | -------------------- | ------------- | ------------------------------- |
 |Generic template (framework & tools) |![Download Template][DownloadTemplate] ![Download Report][DownloadReport]|   |
 |Basic Leaderboard report (journeys & email marketing)|![Download Template][DownloadTemplate] ![Download Report][DownloadReport]|   |
