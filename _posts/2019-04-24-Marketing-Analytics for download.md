@@ -1,4 +1,4 @@
-2 Find a number of samples for your marketing analytics available for download
+1 Find a number of samples for your marketing analytics available for download
 
 |Report|Download|Description|
 | ----------------------- | ---------------------- | ------------------------------- |
