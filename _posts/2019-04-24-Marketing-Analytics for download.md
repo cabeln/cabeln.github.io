@@ -8,5 +8,5 @@ Find a number of sample for your marketing analytics available for download
 |   |![Download Template][DownloadTemplate] ![Download Report][DownloadReport]|   |
 |   |![Download Template][DownloadTemplate] ![Download Report][DownloadReport]|   |
 
-[DownloadTemplate]: {{site.baseurl}}/images/IconDownloadTemplate30.png) Template
-[DownloadReport]: {{site.baseurl}}/images/IconDownloadReport30.png) Report
+[DownloadTemplate]: {{site.baseurl}}/images/IconDownloadTemplate30.png
+[DownloadReport]: {{site.baseurl}}/images/IconDownloadReport30.png
