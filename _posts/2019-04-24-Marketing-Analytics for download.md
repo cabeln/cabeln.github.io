@@ -5,3 +5,6 @@ published: true
 ---
 Find a number of sample for your marketing analytics available for download
 
+# Find readily build marketing analytic reports for Power BI for download
+
+
